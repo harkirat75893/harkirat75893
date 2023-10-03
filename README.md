@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harkirat75893
-- 👀 I’m interested in computer softwares, video games and also love to play basketball
-- 🌱 I’m currently learning coding languages like java, python, swift, html, css, javascript, c# and any that seems interesting
-- 💞️ I’m looking to collaborate on projects that can expand my knowledge and ones that seem intersting to me
+- 👀 I’m interested in computer softwares, video games and also love to play basketball.
+- 💞️ I’m looking to collaborate on projects that can expand my knowledge.
 - 📫 How to reach me harkirat75893@gmail.com
 
 <!---
